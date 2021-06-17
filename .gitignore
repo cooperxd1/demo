@@ -1,0 +1,13 @@
+.project
+.settings/
+demo-app/.classpath
+demo-app/.project
+demo-app/.settings/
+demo-app/target/
+demo-persistencia/.classpath
+demo-persistencia/.settings/
+demo-persistencia/target/
+demo-services/.classpath
+demo-services/.project
+demo-services/.settings/
+demo-services/target/
